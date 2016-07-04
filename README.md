@@ -3,6 +3,8 @@ React Native Card Stack
 
 Built for React Native, this component is based on [cameronbourke.github.io/react-cardstack](http://cameronbourke.github.io/react-cardstack).  Allows you to achieve a UI similar to the iOS passbook app. This is a beta version, so you don’t have to expect a final solution.
 
+![](./demo.png)
+
 ## NPM
 
 This module isn't yet in the npm repository.
