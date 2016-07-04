@@ -1,0 +1,26 @@
+{
+  "name": "react-native-cardstack",
+  "version": "0.1.0",
+  "description": "react native component inspired by the iOS passbook app UI. Based on the component of cameronbourke/react-cardstack",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "carousel",
+    "navigation",
+    "cards"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IdeasMX01/react-native-cardstack.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Gooven <3kgven@gmail.com> (https://github.com/IdeasMX01/)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "15.1.0",
+    "react-native": "^0.28.0"
+  }
+}
